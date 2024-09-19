@@ -1,4 +1,5 @@
 # ruby
 # Ejemplos de ruby y descripción
 #### Descripción: El lenguaje de ruby fue creado en 1995 por Yukihiro Matsumoto. Es un lenguaje de programación interpretado, reflexivo y orientado a objetos.
-#### Usos comunes: Se puede utilizar para la reutilizacion del codigo y la construccion de sistemas modulares y hacerlos mas flexibles. 
+# Usos comunes: 
+# Se puede utilizar para la reutilizacion del codigo y la construccion de sistemas modulares y hacerlos mas flexibles. 
